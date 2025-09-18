@@ -1,0 +1,14 @@
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.exe
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.deps.json
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.runtimeconfig.json
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.dll
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\bin\Debug\net8.0\Prep2.pdb
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.AssemblyInfoInputs.cache
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.AssemblyInfo.cs
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.csproj.CoreCompileInputs.cache
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.dll
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\obj\Debug\net8.0\refint\Prep2.dll
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.pdb
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\obj\Debug\net8.0\Prep2.genruntimeconfig.cache
+C:\Users\chase123\Desktop\cse210-student-template-main\csharp-prep\Prep2\obj\Debug\net8.0\ref\Prep2.dll
